@@ -1,0 +1,26 @@
+Node is a JS runtime. Allows us to run JS code on server. 
+
+Pre-requisites:
+- JS fundamentals: variables, loops, conditionals, functions, arrays, objects, etc.
+- HTTP
+- JSON
+- Arrow functions
+- Promises
+- MVC Pattern (Model View Controller)
+
+------------------------------------------------------------------------------------------------------------------
+
+Advantages:
+- Fast, efficient, highly scalable.
+- Event driven, non-blocking I/O Model
+- Popular in industry
+- Same language on frontend and backend.
+
+Non-Blocking I/O:
+=> Works on a single thread using non-blocking I/O calls.
+=> Supports tens of thousands of concurrent connections.
+=> Optimizes throughput and scalability in apps with many I/O Operations.
+=> All this makes node apps very fast and efficient.
+
+------------------------------------------------------------------------------------------------------------------
+
