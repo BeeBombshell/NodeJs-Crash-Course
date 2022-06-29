@@ -57,3 +57,6 @@ Open node terminal using
 
 Initialize a project:
 "npm init"
+
+Adding nodemon as a dev Dependencies
+"npm install -D nodemon"
