@@ -24,3 +24,25 @@ Non-Blocking I/O:
 
 ------------------------------------------------------------------------------------------------------------------
 
+Node's Event loops:
+- Single Threaded
+- Supports concurrency via events and callbacks
+- EventEmitter class is used to bind events and listeners.
+
+------------------------------------------------------------------------------------------------------------------
+
+Best types of projects for Node:
+- REST API and Microservices
+- Real Time Services (Chat, Live Updates)
+- CRUD Apps - Blogs, Shopping Carts, Social Networks, etc.
+- Tools and Utilities
+(anything that is not CPU intensive)
+
+------------------------------------------------------------------------------------------------------------------
+
+NPM => NodeJs Package Manager
+Dependencies are listed in package.json file.
+
+Node Core Modules: path, fs, http, etc
+3rd party modules installed via NPM: express, body-parser, mongoose, etc.
+Custom Modules (files)
