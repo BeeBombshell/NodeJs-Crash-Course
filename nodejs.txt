@@ -46,3 +46,14 @@ Dependencies are listed in package.json file.
 Node Core Modules: path, fs, http, etc
 3rd party modules installed via NPM: express, body-parser, mongoose, etc.
 Custom Modules (files)
+
+------------------------------------------------------------------------------------------------------------------
+
+To check node version
+"node --version"
+
+Open node terminal using 
+"node"
+
+Initialize a project:
+"npm init"
