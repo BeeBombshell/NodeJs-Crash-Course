@@ -47,6 +47,8 @@ Node Core Modules: path, fs, http, etc
 3rd party modules installed via NPM: express, body-parser, mongoose, etc.
 Custom Modules (files)
 
+Very helpful documentation.
+
 ------------------------------------------------------------------------------------------------------------------
 
 To check node version
