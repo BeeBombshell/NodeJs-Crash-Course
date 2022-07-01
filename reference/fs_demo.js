@@ -12,6 +12,14 @@ fs.writeFile(path.join(__dirname, '/test', 'hello.txt'), 'Hello World!',
     err => {
     if (err) throw err;
     console.log('File written to...');
+    
+    // appending a file
+    fs.appendFile(path.join(__dirname, '/test', 'hello.txt'), ' I Love Node.js',
+        err => {
+            if (err) throw err;
+            console.log('File written to...');
+        });
+        
 });
 
 
