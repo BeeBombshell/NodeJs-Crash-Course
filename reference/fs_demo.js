@@ -22,4 +22,8 @@ fs.writeFile(path.join(__dirname, '/test', 'hello.txt'), 'Hello World!',
         
 });
 
-
+// read file
+fs.readFile(path.join(__dirname, '/test', 'hello.txt'), 'utf8', (err, data) => {
+    if (err) throw err;
+    console.log(data);
+});
