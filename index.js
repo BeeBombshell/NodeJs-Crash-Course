@@ -1,9 +1,13 @@
-const Logger = require('./logger');
+const http = require('http');
+const path = require('path');
+const fs = require('fs');
 
-const logger = new Logger();
+const server = http.createServer((req, res) => {
+    if (req.url == '/') {
+        res.end('<h1>Homepage</h1>');
+    }
+});
 
-logger.on('message', (data) => console.log(`Called Listener:`, data));
+const PORT = process.env.PORT || 5000;
 
-logger.log('Hello World');
-logger.log('Hi');
-logger.log('Hello');
+server.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}/`));
