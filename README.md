@@ -2,6 +2,6 @@
 
 *Techniques used in this course: Node*
 
-> Exploring NodeJS fundamentals including built-in modules like path, fs, os, etc.
+:pushpin: Exploring NodeJS fundamentals including built-in modules like path, fs, os, etc.
 
-> Creating an HTTP server without using ExpressJS.
+:pushpin: Creating an HTTP server without using ExpressJS. 
