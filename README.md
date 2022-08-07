@@ -14,3 +14,4 @@
 - Promises
 - MVC Pattern (Model View Controller)
 
+### Advantages
