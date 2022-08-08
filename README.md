@@ -18,3 +18,5 @@
 Advantages:
 - Fast, efficient, highly scalable.
 - Event driven, non-blocking I/O Model.
+- Popular in industry.
+- Same language on frontend and backend.
