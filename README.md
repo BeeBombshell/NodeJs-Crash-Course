@@ -15,3 +15,5 @@
 - MVC Pattern (Model View Controller)
 
 ### Advantages
+Advantages:
+- Fast, efficient, highly scalable.
