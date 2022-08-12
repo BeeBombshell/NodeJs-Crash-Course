@@ -22,3 +22,4 @@ Advantages:
 - Same language on frontend and backend.
 
 ### Non-Blocking I/O
+-Works on a single thread using non-blocking I/O calls.
