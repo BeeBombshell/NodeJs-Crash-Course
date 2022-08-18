@@ -32,3 +32,4 @@ Advantages:
 ### Best types of projects for NodeJS
 - REST API and Microservices
 - Real Time Services (Chat, Live Updates)
+- CRUD Apps - Blogs, Shopping Carts, Social Networks, etc.
