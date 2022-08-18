@@ -30,3 +30,4 @@ Advantages:
 - EventEmitter class is used to bind events and listeners.
 
 ### Best types of projects for NodeJS
+- REST API and Microservices
