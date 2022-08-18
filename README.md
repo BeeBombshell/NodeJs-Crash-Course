@@ -28,3 +28,5 @@ Advantages:
 - Single Threaded.
 - Supports concurrency via events and callbacks.
 - EventEmitter class is used to bind events and listeners.
+
+### Best types of projects for NodeJS
