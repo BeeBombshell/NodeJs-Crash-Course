@@ -37,3 +37,5 @@ Advantages:
 
 ### NPM (Node Package Manager)
 - Node Package Manager is a package manager for NodeJS packages or modules.
+
+Node Core Modules: path, fs, http, etc
