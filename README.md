@@ -34,3 +34,6 @@ Advantages:
 - Real Time Services (Chat, Live Updates)
 - CRUD Apps - Blogs, Shopping Carts, Social Networks, etc.
 - Tools and Utilities (anything that is not CPU intensive)
+
+### NPM (Node Package Manager)
+- Node Package Manager is a package manager for NodeJS packages or modules.
