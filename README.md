@@ -40,4 +40,6 @@ Advantages:
 
 3rd party modules installed via NPM: express, body-parser, mongoose, etc.
 
+Custom Modules (files) can be created and exported to be used in other files.
+
 Node Core Modules: path, fs, http, etc
