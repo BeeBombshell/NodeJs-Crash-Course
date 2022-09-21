@@ -53,3 +53,6 @@ Very helpful documentation.
 
 - Open node terminal using:
 ```node```
+
+- Initialize a project:
+"npm init"
