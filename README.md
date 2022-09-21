@@ -55,4 +55,4 @@ Very helpful documentation.
 ```node```
 
 - Initialize a project:
-"npm init"
+```npm init```
