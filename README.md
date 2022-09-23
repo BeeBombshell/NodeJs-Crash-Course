@@ -50,3 +50,6 @@ Very helpful documentation.
 
 - To check node version
 "node --version"
+
+- Open node terminal using 
+"node"
