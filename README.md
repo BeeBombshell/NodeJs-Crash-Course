@@ -48,5 +48,5 @@ Very helpful documentation.
 
 ------------------------------------------------------------------------------------------------------------------
 
-To check node version
+- To check node version
 "node --version"
