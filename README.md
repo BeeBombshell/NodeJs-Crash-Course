@@ -47,3 +47,6 @@ Node Core Modules: path, fs, http, etc
 Very helpful documentation.
 
 ------------------------------------------------------------------------------------------------------------------
+
+To check node version
+"node --version"
