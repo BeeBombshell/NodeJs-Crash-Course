@@ -58,4 +58,4 @@ Very helpful documentation.
 ```npm init```
 
 - Install a package:
-"npm install <package_name>"
+```npm install <package_name>```
