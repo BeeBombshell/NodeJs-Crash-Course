@@ -56,3 +56,6 @@ Very helpful documentation.
 
 - Initialize a project:
 ```npm init```
+
+- Install a package:
+"npm install <package_name>"
