@@ -59,3 +59,6 @@ Very helpful documentation.
 
 - Install a package:
 ```npm install <package_name>```
+
+- Install a package as a dev dependency:
+```npm install <package_name> --save-dev```
